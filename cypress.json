@@ -1,1 +1,4 @@
-{}
+{
+    "reporter": "reporters/custom.js"
+}
+  
